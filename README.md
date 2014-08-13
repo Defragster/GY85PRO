@@ -3,9 +3,9 @@ GY85PRO :: ITG3205, ADXL345, and HMC5883L
 
 DigiSpark Pro and GY85 Library
 
-From: ekettenburg@digistump.com [mailto:ekettenburg@digistump.com] On Behalf Of Digistump Support
+From: Erik On Behalf Of Digistump Support
 Sent: Thursday, July 31, 2014 2:18 AM
-To: Tim Bragg   Cc: Digistump Support
+To: Defragster   Cc: Digistump Support ( support@digistump.com )
 No library in mind yet for the 9 DOF - ITG3205, ADXL345, and HMC5883L will be the chips on it.
 
 
